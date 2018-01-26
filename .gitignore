@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+/Final Project/indicator CDIAC carbon_dioxide_total_emissions.xlsx
+/Final Project/*.xlsx
